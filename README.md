@@ -1,6 +1,6 @@
 
 
-# ⚛︎ Qiskit Global Summer School 2022
+# Qiskit Global Summer School 2022
 
 The Qiskit Global Summer School 2022 is a two-week intensive summer program designed to provide a focused introduction to quantum computing and its applications to quantum simulation, with a specific focus on quantum chemistry.
 
